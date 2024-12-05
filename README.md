@@ -11,7 +11,7 @@ This project contains a basic UI test using Playwright. It verifies that the tit
 1. Clone the repository:
 
    git clone <repository_url>
-   cd example-ui-test
+   cd pichetest
 
 2. Install dependencies:
     npm install
